@@ -2,5 +2,4 @@
 
 Tekijä: Mikko Ahonen
 
-Tämä repositorio sisältää Hello-ohjelman kurssin harjoituksista 1-7.
-Mukana on HTML-, CSS- ja JavaScript-tiedostot sekä harjoituksissa tehdyt haarat ja tunnisteet.
+Tämä repositorio sisältää kurssin Git-versionhallinta harjoitukset 1-7.
